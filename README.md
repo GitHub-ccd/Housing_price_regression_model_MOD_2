@@ -1,73 +1,21 @@
-{
- "cells": [
-  {
-   "attachments": {},
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "\n",
-    "# Module 2 Final Project - Linear Regression\n",
-    "\n",
-    "\n",
-    "## Introduction\n",
-    "\n",
-    "In this project I look at the provided housing proces dataset of the king county Washington state. \n",
-    "\n",
-    "## Objectives\n",
-    "The project onjectives are as follows. \n",
-    "* What is the current price distribution ?\n",
-    "* What factors affects the value of a house ? \n",
-    "* How does the price change over time ?\n",
-    "* Feature engineer, train, test and validate a multivariate linear regression model to predict housing prices. \n",
-    "\n",
-    "## File origanization\n",
-    "\n",
-    "1. **student.ipynb**: Data loading and cleaning. Initial visualization and exploration of features. \n",
-    "2. **normalizing.ipynb**: Explor features for multicolliniarity and other artifacts that might later affect modelling. Calculating initial regression model as a baseline. Choose a suitable library and algorithm. Explor features that needs to be changed, removed or add. Handle categorical data. Noemalize data. \n",
-    "3. **modeling.ipynb**: Feature engineering, regression diagnostics, test-train spliting and cross validation. \n",
-    "4. **analysis.ipynb**: Analysis and drawing conclusion from the model. \n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python [conda env:learn-env] *",
-   "language": "python",
-   "name": "conda-env-learn-env-py"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.6.9"
-  },
-  "toc": {
-   "base_numbering": 1,
-   "nav_menu": {},
-   "number_sections": true,
-   "sideBar": true,
-   "skip_h1_title": true,
-   "title_cell": "Table of Contents",
-   "title_sidebar": "Contents",
-   "toc_cell": false,
-   "toc_position": {},
-   "toc_section_display": true,
-   "toc_window_display": false
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 2
-}
+# Module 2 Final Project - Linear Regression
+
+
+## Introduction
+
+In this project I look at the provided housing proces dataset of the king county Washington state. 
+
+## Objectives
+The project onjectives are as follows. 
+* What is the current price distribution ?
+* What factors affects the value of a house ? 
+* How does the price change over time ?
+* Feature engineer, train, test and validate a multivariate linear regression model to predict housing prices. 
+
+## File origanization
+
+1. **student.ipynb**: Data loading and cleaning. Initial visualization and exploration of features. 
+2. **normalizing.ipynb**: Explor features for multicolliniarity and other artifacts that might later affect modelling. Calculating initial regression model as a baseline. Choose a suitable library and algorithm. Explor features that needs to be changed, removed or add. Handle categorical data. Noemalize data. 
+3. **modeling.ipynb**: Feature engineering, regression diagnostics, test-train spliting and cross validation. 
+4. **analysis.ipynb**: Analysis and drawing conclusion from the model. 
+
