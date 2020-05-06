@@ -19,3 +19,5 @@ The project onjectives are as follows.
 3. **modeling.ipynb**: Feature engineering, regression diagnostics, test-train spliting and cross validation. 
 4. **analysis.ipynb**: Analysis and drawing conclusion from the model. 
 
+## comparison of real and predicted of house price 
+![Pred_vs_real.png](attachment:Pred_vs_real.png)
