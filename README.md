@@ -20,4 +20,8 @@ The project onjectives are as follows.
 4. **analysis.ipynb**: Analysis and drawing conclusion from the model. 
 
 ## comparison of real and predicted of house price 
+<<<<<<< HEAD
 ![](img/Pred_vs_real.png)
+=======
+![](img/Pred_vs_real.png)
+>>>>>>> 5af453df8cd624c8f76bc0f2fe4801b40085c31c
