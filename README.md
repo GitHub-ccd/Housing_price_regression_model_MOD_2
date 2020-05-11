@@ -14,14 +14,13 @@ The project onjectives are as follows.
 
 ## File origanization
 
-1. **student.ipynb**: Data loading and cleaning. Initial visualization and exploration of features. 
-2. **normalizing.ipynb**: Explor features for multicolliniarity and other artifacts that might later affect modelling. Calculating initial regression model as a baseline. Choose a suitable library and algorithm. Explor features that needs to be changed, removed or add. Handle categorical data. Noemalize data. 
-3. **modeling.ipynb**: Feature engineering, regression diagnostics, test-train spliting and cross validation. 
+1. **student.ipynb**: Data loading and cleaning. Initial visualization and exploration of features. multicolliniarity and handling outliers. 
+3. **modeling.ipynb**: Calculating initial regression model as a baseline. Choose a suitable library and algorithm. Explor features that needs to be changed, removed or add. Handle categorical data. Noemalize data. Feature engineering, regression diagnostics, test-train spliting and cross validation. 
 4. **analysis.ipynb**: Analysis and drawing conclusion from the model. 
 
 ## comparison of real and predicted of house price 
-<<<<<<< HEAD
+
 ![](img/Pred_vs_real.png)
 =======
 ![](img/Pred_vs_real.png)
->>>>>>> 5af453df8cd624c8f76bc0f2fe4801b40085c31c
+
