@@ -1,4 +1,3 @@
-
 # Module 2 Final Project - Linear Regression
 
 
@@ -24,3 +23,8 @@ The project onjectives are as follows.
 
 ## comparison of real and predicted of house price 
 ![Pred_vs_real.png](attachment:Pred_vs_real.png)
+
+
+```python
+
+```
