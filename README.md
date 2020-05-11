@@ -1,3 +1,4 @@
+
 # Module 2 Final Project - Linear Regression
 
 
@@ -18,9 +19,8 @@ The project onjectives are as follows.
 3. **modeling.ipynb**: Calculating initial regression model as a baseline. Choose a suitable library and algorithm. Explor features that needs to be changed, removed or add. Handle categorical data. Noemalize data. Feature engineering, regression diagnostics, test-train spliting and cross validation. 
 4. **analysis.ipynb**: Analysis and drawing conclusion from the model. 
 
+## final model summary
+![model_3_summary.png](attachment:model_3_summary.png)
+
 ## comparison of real and predicted of house price 
-
-![](img/Pred_vs_real.png)
-=======
-![](img/Pred_vs_real.png)
-
+![Pred_vs_real.png](attachment:Pred_vs_real.png)
