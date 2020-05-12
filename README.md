@@ -22,9 +22,5 @@ The project onjectives are as follows.
 ![](img/model_3_summary.png)
 
 ## comparison of real and predicted of house price 
-![Pred_vs_real.png](attachment:Pred_vs_real.png)
+![](img/Pred_vs_real.png)
 
-
-```python
-
-```
